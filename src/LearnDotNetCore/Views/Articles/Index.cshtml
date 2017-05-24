@@ -1,0 +1,7 @@
+﻿@model LearnDotNetCore.ViewModels.Articles.ArticlesIndexViewModel
+<ul>
+    @foreach (var article in Model.Articles)
+    {
+        <li>@article.Name <a asp-action="DetailsAsync" asp-controller="Articles" asp-route-articleId="1">Detale</a></li>
+    }
+</ul>

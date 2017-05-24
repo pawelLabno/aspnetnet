@@ -1,0 +1,4 @@
+#:C:\coretest\LearnDotNetCore\src\LearnDotNetCore\LearnDotNetCore.xproj
+C:\coretest\LearnDotNetCore\src\LearnDotNetCore\LearnDotNetCore.xproj|C:\coretest\LearnDotNetCore\src\LearnDotNet.Domain\LearnDotNet.Domain.xproj
+C:\coretest\LearnDotNetCore\src\LearnDotNetCore\LearnDotNetCore.xproj|C:\coretest\LearnDotNetCore\src\Learn.Infrastructure\Learn.Infrastructure.xproj
+C:\coretest\LearnDotNetCore\src\Learn.Infrastructure\Learn.Infrastructure.xproj|C:\coretest\LearnDotNetCore\src\LearnDotNet.Domain\LearnDotNet.Domain.xproj
